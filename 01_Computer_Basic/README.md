@@ -85,6 +85,7 @@ components. It processes and executes our commands and is frequently
 referred to as "a computer's brain." It significantly affects a device's speed
 and efficiency.
 
+![image](https://github.com/user-attachments/assets/2b18b93f-80d7-4023-a2ff-260dfe7d4a8f)
 
 
 # Primary Memory:
