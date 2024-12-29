@@ -86,6 +86,8 @@ referred to as "a computer's brain." It significantly affects a device's speed
 and efficiency.
 
 ![image](https://github.com/user-attachments/assets/2b18b93f-80d7-4023-a2ff-260dfe7d4a8f)
+![image](https://github.com/user-attachments/assets/e085deef-7731-44bc-b201-b8ccf7fc10d5)
+
 
 
 # Primary Memory:
