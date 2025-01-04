@@ -4,7 +4,7 @@ Making a set of instructions that instruct a computer how to carry out a task is
 the process of programming. There are numerous computer programming
 languages available for use in programming.
 
-Category of Programming Languages:
+# Category of Programming Languages:
 
 ● Machine Level Language :- Machine-level language is the lowest-level programming language, directly understood by a computer's CPU without translation.
   ## Key Characteristics
