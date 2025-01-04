@@ -123,6 +123,8 @@ interpreter is a part of JVMh
 # Main method
 
 ![image](https://github.com/user-attachments/assets/943cc510-37f6-469c-b0f1-c6d7dc46e2db)
+![image](https://github.com/user-attachments/assets/2e4d3dce-e2fd-43b1-8eac-89f7d190e61b)
+
 
 public static void main(String[] args):
 
