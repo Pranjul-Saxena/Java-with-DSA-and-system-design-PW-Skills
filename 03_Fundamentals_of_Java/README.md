@@ -87,8 +87,8 @@ more.
 
 Writing, compiling, and debugging programmes are simple with Java since it is a
 class-based, object-oriented programming language. It facilitates the
-development of reusable code and modular programmes, which James Gosling
-invented in 1995 and eventually sold to Oracle Corporation.
+development of reusable code and modular programmes, which *James Gosling*
+invented in *1995* and eventually sold to Oracle Corporation.
 
 ● Java is an object-oriented programming language developed by Sun Microsystems, and it was released in
 1995h
@@ -114,8 +114,15 @@ interpreter is a part of JVMh
 ● Distributed
 ● Dynamic
 
+![image](https://github.com/user-attachments/assets/9fafd897-761b-4a51-9f85-864e3f265f46).
+
+![image](https://github.com/user-attachments/assets/672ba084-7d7a-43aa-91e6-989fa2c4a491)
+
+
 
 # Main method
+
+![image](https://github.com/user-attachments/assets/943cc510-37f6-469c-b0f1-c6d7dc46e2db)
 
 public static void main(String[] args):
 
@@ -148,11 +155,13 @@ are called arguments. These arguments are stored into an args[] array, so the na
 for it.
 
 
-
-
 # Classes and Objects (Basics)
 
 Java is an object-oriented programming language.
+
+![image](https://github.com/user-attachments/assets/f5d1ae76-d4c9-44a1-89e8-b905664cd1b5)
+![image](https://github.com/user-attachments/assets/8877d7ce-7f9d-4d3a-a554-de7e305481b8)
+
 
 The classes and objects in Java, along with their characteristics and methods, are
 the foundation of everything. For instance, an automobile is an object in the actual
