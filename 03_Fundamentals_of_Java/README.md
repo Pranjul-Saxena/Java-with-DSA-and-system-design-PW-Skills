@@ -7,32 +7,6 @@ languages available for use in programming.
 Category of Programming Languages:
 
 ● Machine Level Language
-      # Machine-Level Language (MLL)
-      
-      Machine-level language is the lowest-level programming language, directly understood by a computer's CPU without translation.
-      
-      ## Key Characteristics
-      - **Binary Format**: Instructions are represented in binary (0s and 1s).
-      - **Hardware-Specific**: Each CPU has its unique instruction set.
-      - **No Abstraction**: Directly manipulates hardware (e.g., registers, memory, I/O devices).
-      - **Efficient but Complex**: High execution speed but challenging to write, read, and debug.
-      
-      ## Advantages
-      - **Fast Execution**: Direct communication with the CPU ensures minimal overhead.
-      - **Precise Control**: Allows fine-grained control over hardware.
-      
-      ## Disadvantages
-      - **Difficult to Program**: Writing code in binary is error-prone and time-consuming.
-      - **Not Portable**: Code is specific to the CPU architecture.
-      - **Hard to Debug and Maintain**: Lack of abstraction makes troubleshooting challenging.
-      
-      ## Use Cases
-      - Embedded systems programming.
-      - Low-level hardware interfacing.
-      - Performance-critical applications.
-      
-      While MLL offers efficiency and control, higher-level languages are preferred for their abstraction and ease of use.
-
 ● Assembly language
 ● High-level languages
 
