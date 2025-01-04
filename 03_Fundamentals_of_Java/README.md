@@ -6,67 +6,67 @@ languages available for use in programming.
 
 # Category of Programming Languages:
 
-● Machine Level Language :- Machine-level language is the lowest-level programming language, directly understood by a computer's CPU without translation.
-  ## Key Characteristics
+## Machine Level Language :- Machine-level language is the lowest-level programming language, directly understood by a computer's CPU without translation.
+  ### Key Characteristics
   - **Binary Format**: Instructions are represented in binary (0s and 1s).
   - **Hardware-Specific**: Each CPU has its unique instruction set.
   - **No Abstraction**: Directly manipulates hardware (e.g., registers, memory, I/O devices).
   - **Efficient but Complex**: High execution speed but challenging to write, read, and debug.
-  ## Advantages
+  ### Advantages
   - **Fast Execution**: Direct communication with the CPU ensures minimal overhead.
   - **Precise Control**: Allows fine-grained control over hardware.
   
-  ## Disadvantages
+  ### Disadvantages
   - **Difficult to Program**: Writing code in binary is error-prone and time-consuming.
   - **Not Portable**: Code is specific to the CPU architecture.
   - **Hard to Debug and Maintain**: Lack of abstraction makes troubleshooting challenging.
 
-● Assembly language :- Assembly language is a low-level programming language that provides a symbolic representation of machine code, making it easier to program than machine-level language.
+## Assembly language :- Assembly language is a low-level programming language that provides a symbolic representation of machine code, making it easier to program than machine-level language.
 
-## Key Characteristics
+### Key Characteristics
 - **Symbolic Instructions**: Uses mnemonics (e.g., `MOV`, `ADD`) instead of binary code.
 - **Hardware-Specific**: Tied to a specific CPU architecture.
 - **Low-Level**: Provides direct hardware control but is slightly more abstract than machine code.
 
-## Advantages
+### Advantages
 - **Readable**: Easier to understand and write than machine code.
 - **Efficient**: Offers control over hardware with minimal overhead.
 - **Fast Execution**: Translated directly into machine code by an assembler.
 
-## Disadvantages
+### Disadvantages
 - **Complex**: Still challenging to write compared to high-level languages.
 - **Not Portable**: Code written for one processor cannot run on another without modification.
 - **Difficult Debugging**: Errors can be hard to trace and fix.
 
-## Use Cases
+### Use Cases
 - System programming (e.g., operating systems, device drivers).
 - Embedded systems.
 - Performance optimization in critical applications.
 
-● High-level languages :- High-level programming languages are designed to be user-friendly and abstract away the complexities of hardware, making them easier to learn and use.
+## High-level languages :- High-level programming languages are designed to be user-friendly and abstract away the complexities of hardware, making them easier to learn and use.
 
-## Key Characteristics
+### Key Characteristics
 - **Human-Readable**: Uses natural language-like syntax (e.g., `if`, `while`, `print`).
 - **Abstracted from Hardware**: Does not require direct interaction with the CPU or memory.
 - **Portable**: Code can run on multiple platforms with little or no modification.
 
-## Advantages
+### Advantages
 - **Ease of Use**: Simplifies coding, debugging, and maintenance.
 - **Productivity**: Faster development time compared to low-level languages.
 - **Portability**: Independent of hardware and operating systems.
 - **Rich Libraries**: Provides extensive built-in libraries and frameworks for rapid development.
 
-## Disadvantages
+### Disadvantages
 - **Less Control**: Limited access to low-level hardware features.
 - **Performance Overhead**: May be slower than low-level languages due to abstraction.
 - **Dependency**: Requires compilers or interpreters to translate code into machine language.
 
-## Examples
+### Examples
 - **General Purpose**: Python, Java, C++, PHP.
 - **Web Development**: JavaScript, Ruby.
 - **Scientific Computing**: MATLAB, R.
 
-## Use Cases
+### Use Cases
 - Application development (web, mobile, desktop).
 - Scientific research and data analysis.
 - Game development.
