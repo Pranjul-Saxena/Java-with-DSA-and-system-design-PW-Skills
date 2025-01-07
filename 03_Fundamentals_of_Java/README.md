@@ -155,6 +155,11 @@ Here, agrs[] is the array name, and it is of String type. It means that it can s
 this array can also store a group of numbers but in the form of string only. Values passed to the main() method
 are called arguments. These arguments are stored into an args[] array, so the name args[] is generally used
 for it.
+![image](https://github.com/user-attachments/assets/8f9a8bd9-8c8c-4d00-b070-d2be44c432e2)
+![image](https://github.com/user-attachments/assets/ecff0dd8-d759-4cad-8d7e-a6859d424f5d)
+![image](https://github.com/user-attachments/assets/eb7f9be2-068f-4e40-8a97-f9f54d26ba14)
+
+
 
 
 # Classes and Objects (Basics)
